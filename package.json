@@ -6,9 +6,9 @@
     "start": "node Bot.js"
   },
   "dependencies": {
-    "mineflayer": "^4.22.0", // Или новее
-    "prismarine-physics": "^1.2.0", // Убедитесь, что версия актуальна
-    "minecraft-data": "^3.0.0" // Убедитесь, что версия актуальна
+    "mineflayer": "^4.22.0", 
+    "prismarine-physics": "^1.2.0", 
+    "minecraft-data": "^3.0.0" 
   },
   "engines": {
     "node": ">=18.x"
