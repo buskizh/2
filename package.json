@@ -1,0 +1,14 @@
+{
+  "name": "mineflayer-bot",
+  "version": "1.0.0",
+  "main": "Bot.js",
+  "scripts": {
+    "start": "node Bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.9.0"  // Используйте стабильную версию из npm, а не GitHub
+  },
+  "engines": {
+    "node": ">=18.x"  // Mineflayer требует Node 18+
+  }
+}
